@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/sword combat-1.png (1).png-f09a26035db540b86d1f8587c09a85c7.stex"
+path="res://.import/adventurer-hand-combat-Sheet-2.png (1).png-8c53f4ee8b274922a1b9f18c0a81ec33.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sword combat-1.png (1).png"
-dest_files=[ "res://.import/sword combat-1.png (1).png-f09a26035db540b86d1f8587c09a85c7.stex" ]
+source_file="res://adventurer-hand-combat-Sheet-2.png (1).png"
+dest_files=[ "res://.import/adventurer-hand-combat-Sheet-2.png (1).png-8c53f4ee8b274922a1b9f18c0a81ec33.stex" ]
 
 [params]
 
