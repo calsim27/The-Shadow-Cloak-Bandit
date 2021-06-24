@@ -23,7 +23,6 @@ func get_input():
 func _physics_process(delta):
 	if player_state != state.ROLLING and player_state != state.HANDSTRONGATTACK and player_state != state.HANDWEAKATTACK and player_state != state.SWORDSTRONGATTACKand player_state != state.SWORDWEAKATTACK and player_state != state.KICK:
 		get_input()
-		
 		print(velocity)
 		
 		if velocity.x == 0:
