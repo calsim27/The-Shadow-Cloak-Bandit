@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/adventurer-hand-combat-Sheet-2.png (1).png-8c53f4ee8b274922a1b9f18c0a81ec33.stex"
+path="res://.import/herochar_spritesheet(new).png-024dc0d8161d19c21f77bc2f6126a4e8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://adventurer-hand-combat-Sheet-2.png (1).png"
-dest_files=[ "res://.import/adventurer-hand-combat-Sheet-2.png (1).png-8c53f4ee8b274922a1b9f18c0a81ec33.stex" ]
+source_file="res://sprites/herochar_spritesheet(new).png"
+dest_files=[ "res://.import/herochar_spritesheet(new).png-024dc0d8161d19c21f77bc2f6126a4e8.stex" ]
 
 [params]
 
